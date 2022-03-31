@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="rating-analyzer-1.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/RatingAnalyzer/lib/rating-analyzer-1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
